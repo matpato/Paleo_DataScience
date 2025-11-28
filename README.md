@@ -32,6 +32,9 @@
 - Basic understanding of paleontology (what you already know!)
 - Python installed on your computer (we'll guide you)
 
+### Slides Material:
+- Open file named **DataScience-Paleontology.pdf**
+
 ---
 
 ## 🔧 SETUP INSTRUCTIONS
@@ -509,6 +512,7 @@ The skills you learn here apply to:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
+Developed by Matilde Pato & André Baptista as part of the Master Dissertation in Computer Science and Engineering.
 
 - GitHub: [https://github.com/matpato/Paleo_DataScience](https://github.com/matpato/Paleo_DataScience)
 - Email: [andrefbaptista2@gmail.com](mailto:andrefbaptista2@gmail.com) &
