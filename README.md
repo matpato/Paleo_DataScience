@@ -4,9 +4,13 @@
     </a>
 
 
-[![PyPI version](https://badge.fury.io/py/jsonify.svg)](https://badge.fury.io/py/jsonify)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)](https://pandas.pydata.org)
+[![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)](https://numpy.org)
+[![MatPlotLib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)](https://matplotlib.org)
+[![Google Colab](https://img.shields.io/badge/google_colab-F9AB00?style=&logo=google-colab&logoColor=white)](https://colab.google)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![KG](https://img.shields.io/badge/tags-Knowledge%20Graph%2C%20LLM%2C%20Neo4j%2C%20University%20Data%2C%20Open%20Data-blue)
 </p>
 
 # PALEOBIOLOGY DATABASE ANALYSIS FOR STUDENTS
@@ -506,8 +510,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- GitHub: [https://github.com/matpato](https://github.com/crpereir/jsonify)
-- Email: [carolinadpereira18@gmail.com](mailto:carolinadpereira18@gmail.com) &
+- GitHub: [https://github.com/matpato/Paleo_DataScience](https://github.com/matpato/Paleo_DataScience)
+- Email: [andrefbaptista2@gmail.com](mailto:andrefbaptista2@gmail.com) &
          [matilde.pato@isel.pt](mailto:matilde.pato@isel.pt)
 
 ---
