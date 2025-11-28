@@ -5,6 +5,7 @@
 
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)](https://pandas.pydata.org)
 [![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)](https://numpy.org)
 [![MatPlotLib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)](https://matplotlib.org)
